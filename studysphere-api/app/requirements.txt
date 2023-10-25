@@ -1,0 +1,12 @@
+channels[daphne]~=4.0.0
+Django==4.2.6
+djangorestframework~=3.14.0
+Markdown
+asgiref~=3.7.2
+psycopg2-binary
+django_filter
+python-dotenv
+django-cors-headers==4.0.0
+djangorestframework-simplejwt
+djoser
+gunicorn==21.2.0
